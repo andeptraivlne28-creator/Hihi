@@ -32,7 +32,7 @@ uids_lock = threading.Lock()
 gringay = None               # special token refreshed separately
 
 api_keys = {
-    "boara911": {"exp": "30/07/2095", "remain": 999, "max_remain": 999, "last_reset": None}
+    "ansoiu28": {"exp": "30/07/2095", "remain": 999, "max_remain": 999, "last_reset": None}
 }
 
 # --- Helpers / API key check ---
